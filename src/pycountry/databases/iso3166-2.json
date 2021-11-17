@@ -3449,128 +3449,153 @@
     },
     {
       "code": "CN-AH",
-      "name": "Anhui Sheng",
-      "type": "Province"
+      "name": "Anhui",
+      "type": "Province",
+      "official_name": "Anhui Sheng"
     },
     {
       "code": "CN-BJ",
-      "name": "Beijing Shi",
-      "type": "Municipality"
+      "name": "Beijing",
+      "type": "Municipality",
+      "official_name": "Beijing Shi"
     },
     {
       "code": "CN-CQ",
-      "name": "Chongqing Shi",
-      "type": "Municipality"
+      "name": "Chongqing",
+      "type": "Municipality",
+      "official_name": "Chongqing Shi"
     },
     {
       "code": "CN-FJ",
-      "name": "Fujian Sheng",
-      "type": "Province"
+      "name": "Fujian",
+      "type": "Province",
+      "official_name": "Fujian Sheng"
     },
     {
       "code": "CN-GD",
-      "name": "Guangdong Sheng",
-      "type": "Province"
+      "name": "Guangdong",
+      "type": "Province",
+      "official_name": "Guangdong Sheng"
     },
     {
       "code": "CN-GS",
-      "name": "Gansu Sheng",
-      "type": "Province"
+      "name": "Gansu",
+      "type": "Province",
+      "official_name": "Gansu Sheng"
     },
     {
       "code": "CN-GX",
-      "name": "Guangxi Zhuangzu Zizhiqu",
-      "type": "Autonomous region"
+      "name": "Guangxi",
+      "type": "Autonomous region",
+      "official_name": "Guangxi Zhuangzu Zizhiqu"
     },
     {
       "code": "CN-GZ",
-      "name": "Guizhou Sheng",
-      "type": "Province"
+      "name": "Guizhou",
+      "type": "Province",
+      "official_name": "Guizhou Sheng"
     },
     {
       "code": "CN-HA",
-      "name": "Henan Sheng",
-      "type": "Province"
+      "name": "Henan",
+      "type": "Province",
+      "official_name": "Henan Sheng"
     },
     {
       "code": "CN-HB",
-      "name": "Hubei Sheng",
-      "type": "Province"
+      "name": "Hubei",
+      "type": "Province",
+      "official_name": "Hubei Sheng"
     },
     {
       "code": "CN-HE",
-      "name": "Hebei Sheng",
-      "type": "Province"
+      "name": "Hebei",
+      "type": "Province",
+      "official_name": "Hebei Sheng"
     },
     {
       "code": "CN-HI",
-      "name": "Hainan Sheng",
-      "type": "Province"
+      "name": "Hainan",
+      "type": "Province",
+      "official_name": "Hainan Sheng"
     },
     {
       "code": "CN-HK",
-      "name": "Hong Kong SAR (see also separate country code entry under HK)",
-      "type": "Special administrative region"
+      "name": "Hong Kong (see also separate country code entry under HK)",
+      "type": "Special administrative region",
+      "official_name": "Hong Kong SAR"
     },
     {
       "code": "CN-HL",
-      "name": "Heilongjiang Sheng",
-      "type": "Province"
+      "name": "Heilongjiang",
+      "type": "Province",
+      "official_name": "Heilongjiang Sheng"
     },
     {
       "code": "CN-HN",
-      "name": "Hunan Sheng",
-      "type": "Province"
+      "name": "Hunan",
+      "type": "Province",
+      "official_name": "Hunan Sheng"
     },
     {
       "code": "CN-JL",
-      "name": "Jilin Sheng",
-      "type": "Province"
+      "name": "Jilin",
+      "type": "Province",
+      "official_name": "Jilin Sheng"
     },
     {
       "code": "CN-JS",
-      "name": "Jiangsu Sheng",
-      "type": "Province"
+      "name": "Jiangsu",
+      "type": "Province",
+      "official_name": "Jiangsu Sheng"
     },
     {
       "code": "CN-JX",
-      "name": "Jiangxi Sheng",
-      "type": "Province"
+      "name": "Jiangxi",
+      "type": "Province",
+      "official_name": "Jiangxi Sheng"
     },
     {
       "code": "CN-LN",
-      "name": "Liaoning Sheng",
-      "type": "Province"
+      "name": "Liaoning",
+      "type": "Province",
+      "official_name": "Liaoning Sheng"
     },
     {
       "code": "CN-MO",
-      "name": "Macao SAR (see also separate country code entry under MO)",
-      "type": "Special administrative region"
+      "name": "Macao (see also separate country code entry under MO)",
+      "type": "Special administrative region",
+      "official_name": "Macao SAR"
     },
     {
       "code": "CN-NM",
-      "name": "Nei Mongol Zizhiqu",
-      "type": "Autonomous region"
+      "name": "Nei Mongol",
+      "type": "Autonomous region",
+      "official_name": "Nei Mongol Zizhiqu"
     },
     {
       "code": "CN-NX",
-      "name": "Ningxia Huizi Zizhiqu",
-      "type": "Autonomous region"
+      "name": "Ningxia",
+      "type": "Autonomous region",
+      "official_name": "Ningxia Huizi Zizhiqu"
     },
     {
       "code": "CN-QH",
-      "name": "Qinghai Sheng",
-      "type": "Province"
+      "name": "Qinghai",
+      "type": "Province",
+      "official_name": "Qinghai Sheng"
     },
     {
       "code": "CN-SC",
-      "name": "Sichuan Sheng",
-      "type": "Province"
+      "name": "Sichuan",
+      "type": "Province",
+      "official_name": "Sichuan Sheng"
     },
     {
       "code": "CN-SD",
-      "name": "Shandong Sheng",
-      "type": "Province"
+      "name": "Shandong",
+      "type": "Province",
+      "official_name": "Shandong Sheng"
     },
     {
       "code": "CN-SH",
@@ -3580,43 +3605,51 @@
     },
     {
       "code": "CN-SN",
-      "name": "Shaanxi Sheng",
-      "type": "Province"
+      "name": "Shaanxi",
+      "type": "Province",
+      "official_name": "Shaanxi Sheng"
     },
     {
       "code": "CN-SX",
-      "name": "Shanxi Sheng",
-      "type": "Province"
+      "name": "Shanxi",
+      "type": "Province",
+      "official_name": "Shanxi Sheng"
     },
     {
       "code": "CN-TJ",
-      "name": "Tianjin Shi",
-      "type": "Municipality"
+      "name": "Tianjin",
+      "type": "Municipality",
+      "official_name": "Tianjin Shi"
     },
     {
       "code": "CN-TW",
-      "name": "Taiwan Sheng (see also separate country code entry under TW)",
-      "type": "Province"
+      "name": "Taiwan Province (see also separate country code entry under TW)",
+      "type": "Province",
+      "official_name": "Taiwan Sheng"
     },
     {
       "code": "CN-XJ",
-      "name": "Xinjiang Uygur Zizhiqu",
-      "type": "Autonomous region"
+      "name": "Xinjiang",
+      "type": "Autonomous region",
+      "official_name": "Xinjiang Uygur Zizhiqu"
     },
     {
       "code": "CN-XZ",
-      "name": "Xizang Zizhiqu",
-      "type": "Autonomous region"
+      "name": "Xizang",
+      "type": "Autonomous region",
+      "official_name": "Xizang Zizhiqu"
     },
     {
       "code": "CN-YN",
-      "name": "Yunnan Sheng",
-      "type": "Province"
+      "name": "Yunnan",
+      "type": "Province",
+      "official_name": "Yunnan Sheng"
     },
     {
       "code": "CN-ZJ",
-      "name": "Zhejiang Sheng",
-      "type": "Province"
+      "name": "Zhejiang",
+      "type": "Province",
+      "official_name": "Zhejiang Sheng"
     },
     {
       "code": "CO-AMA",
@@ -24122,8 +24155,9 @@
     },
     {
       "code": "US-DC",
-      "name": "District of Columbia",
-      "type": "District"
+      "name": "Washington, D.C.",
+      "type": "District",
+      "official_name": "District of Columbia"
     },
     {
       "code": "US-DE",
