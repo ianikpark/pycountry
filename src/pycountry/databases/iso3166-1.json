@@ -815,7 +815,8 @@
     {
       "alpha_2": "KR",
       "alpha_3": "KOR",
-      "name": "Korea, Republic of",
+      "name": "South Korea",
+      "official_name": "Republic of Korea",
       "numeric": "410"
     },
     {
@@ -1268,8 +1269,9 @@
     {
       "alpha_2": "RU",
       "alpha_3": "RUS",
-      "name": "Russian Federation",
-      "numeric": "643"
+      "name": "Russia",
+      "numeric": "643",
+      "official_name": "Russian Federation"
     },
     {
       "alpha_2": "RW",
